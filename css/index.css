@@ -16,14 +16,17 @@
 }
 
 #logo {
-    width: 100%;
+    width: 70%;
+    display: block;
  
 }
 
 #booleaner {
-    margin: 20px 0px 0px 10px;
-    width: 15%;
-
+    margin: 0px 0px 0px 10px;
+    width: 30%;
+    padding: 0%;
+    padding-bottom: 0;
+    display: flex;
 }
 
 /* Fine Header */
@@ -59,7 +62,7 @@ figcaption {
 
 }
 
-#backgroundspan {
+.backgroundspan {
     background-color: yellow;
 }
 
@@ -97,9 +100,30 @@ h3 {
     color: grey;
 }
 
-#figurefooter {
+
+#red {
     background-image: url(../img/monitor.jpg);
+    width: 18%;
+    height: 200px;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(../img/graph.jpg);
+    display: block;
+
 }
 
+#blue {
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 18%;
+    height: 171px;
+
+}
+
+.lorem {
+    margin: 10px;
+    display: flex;
+    color: white;
+    padding-left: 6%;
+    padding-top: 5%
+}
