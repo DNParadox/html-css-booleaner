@@ -32,7 +32,7 @@
 
 /* Main Titolo */
 
-main {
+main, footer{
     margin: 10px 0 10px 10px; ;
 }
 
@@ -64,3 +64,18 @@ figcaption {
 #list {
     margin-left: 15px;
 }
+
+/* Main Table */
+
+/* Footer */
+
+h3 {
+    color: grey;
+}
+
+#figurefooter {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-image: url(../img/graph.jpg);
+}
+
