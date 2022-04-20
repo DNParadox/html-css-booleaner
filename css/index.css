@@ -46,20 +46,44 @@ main, footer{
 
 /* Main Foto  */
 figure {
-    /* text-align: center; */
     width: 120%;
 }
 
 figcaption {
-    
     font-size: 12px;
 }
 
 /* Main Testo, elenco Puntato */
+#testopuntato { 
+    width: 70%;
+
+}
 
 #backgroundspan {
     background-color: yellow;
 }
+
+table {
+    width: 72%;
+}
+.tabletexth, .tablebody, .tablefooter {
+    width: 35%;
+    text-align: left;
+}
+
+.tablebody {
+    background-color: #b1e5f2;
+}
+
+
+.tabletexth {
+    background-color: #20a9e5;
+}
+
+.mainp{
+    width: 70%;
+}
+
 
 #list {
     margin-left: 15px;
