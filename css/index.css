@@ -1,7 +1,27 @@
 /* Reset Browser */
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+/* Inizio header */
+
+#header {
+    background-color: #4ea0ff;
+    background-image:url(../img/pattern.png) ; 
+    width: 100%;
+    background-size: 28%;
+
+}
+
+#logo {
+    width: 100%;
+ 
+}
+
+#booleaner {
+    margin: 20px 0px 5px;
+    width: 20%;
+
 }
