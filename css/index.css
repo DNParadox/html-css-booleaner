@@ -33,7 +33,7 @@
 /* Main Titolo */
 
 main {
-    margin: 10px 0px 0px 10px;
+    margin: 10px 0 10px 10px; ;
 }
 
 #colorspan {
@@ -45,9 +45,22 @@ main {
 }
 
 /* Main Foto  */
+figure {
+    /* text-align: center; */
+    width: 120%;
+}
 
 figcaption {
+    
     font-size: 12px;
 }
 
-/* Main Testo */
+/* Main Testo, elenco Puntato */
+
+#backgroundspan {
+    background-color: yellow;
+}
+
+#list {
+    margin-left: 15px;
+}
