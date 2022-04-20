@@ -11,7 +11,7 @@
     background-color: #4ea0ff;
     background-image:url(../img/pattern.png) ; 
     width: 100%;
-    background-size: 28%;
+    background-size: 22%;
 
 }
 
@@ -21,7 +21,33 @@
 }
 
 #booleaner {
-    margin: 20px 0px 5px;
-    width: 20%;
+    margin: 20px 0px 0px 10px;
+    width: 15%;
 
 }
+
+/* Fine Header */
+
+/* Inizio Main */
+
+/* Main Titolo */
+
+main {
+    margin: 10px 0px 0px 10px;
+}
+
+#colorspan {
+    color: #4ea0ff;
+}
+
+#ptitolo {
+    color: grey;
+}
+
+/* Main Foto  */
+
+figcaption {
+    font-size: 12px;
+}
+
+/* Main Testo */
